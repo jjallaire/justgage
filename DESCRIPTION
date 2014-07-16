@@ -7,3 +7,9 @@ Author: Who wrote it
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
+Depends:
+    knitr (>= 1.6),
+    htmltools (>= 0.2.4),
+    RJSONIO
+Suggests:
+    roxygen2 (>= 4.0.1)
